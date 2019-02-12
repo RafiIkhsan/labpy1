@@ -9,4 +9,4 @@ Setelah tersimpan lalu buka cmd untuk menampilkan output, jika berhasil maka has
 
 Selanjutnnya buka internet lalu masuk ke github, dan buat repositori baru dengan nama tugas labpy1
 Lalu selanjutnya buka aplikasi gitbash dan kita buat folder readme di github seperti gambar di bawah ini :
-
+![screenshot 22](https://user-images.githubusercontent.com/46708621/52615017-30e18880-2ec6-11e9-8abd-810fa071f22b.png)
